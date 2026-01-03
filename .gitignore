@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Notes & Docs
+NOTES/
+*.pdf
+*.zip
+*.msi
+
+# OS files
+.DS_Store
+Thumbs.db
